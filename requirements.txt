@@ -1,0 +1,6 @@
+AutoROM==0.5.5
+gym==0.26.2
+numpy==1.21.5
+tensorboard==2.8.0
+torch==1.10.1
+wandb==0.13.10
